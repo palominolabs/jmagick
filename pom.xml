@@ -5,6 +5,7 @@
   <artifactId>jmagick</artifactId>
   <packaging>jar</packaging>
   <version>6.6.9</version>
+  <name>jMagick</name>
   <description>Java JNI wrapper around ImageMagick.</description>
   <inceptionYear>2008</inceptionYear>
   <url>http://www.jmagick.org/index.html</url>
@@ -20,6 +21,15 @@
     <url>http://jmagick.svn.sourceforge.net/</url>
   </scm>
   <developers>
+    <developer>
+      <id>nordfalk</id>
+    </developer>
+    <developer>
+      <id>ajkerr</id>
+    </developer>
+    <developer>
+      <id>miyamo-rakuten</id>
+    </developer>
   </developers>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

@@ -25,6 +25,7 @@
 /lib/libJMagick-6.4.2.so
 /lib/jmagick-6.4.2.jar
 /lib/.libs
+/lib
 
 # /obj/
 /obj/magick

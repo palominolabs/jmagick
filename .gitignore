@@ -1,0 +1,41 @@
+
+# /
+/Make.def
+/config.log
+/config.status
+/jmagickSF.jpx
+/jmagickSF.refactor
+/tempcompareImage.jpg
+/.Make.rules.swp
+/vp.log
+/bak
+/classes
+/generated
+/libtool
+/autom4te.cache
+
+# /lib/
+/lib/junit.jar
+/lib/jmagick.dll
+/lib/jmagick.exp
+/lib/jmagick.jar
+/lib/jmagick.dll.manifest
+/lib/jmagick.lib
+/lib/magick
+/lib/libJMagick-6.4.2.so
+/lib/jmagick-6.4.2.jar
+/lib/.libs
+
+# /obj/
+/obj/magick
+
+# /src/
+/src/Makefile.all
+
+# /src/magick/
+/src/magick/.jnidep
+
+# /test/
+/test/actual_output
+/test/simpletest
+/test/simpletest_output
